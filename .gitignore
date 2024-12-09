@@ -144,6 +144,8 @@ langpy1venv/
 
 # mkdocs documentation
 /site
+/docs
+
 
 # mypy
 .mypy_cache/
