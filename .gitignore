@@ -133,6 +133,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+langpy1venv/
 
 # Spyder project settings
 .spyderproject
